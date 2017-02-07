@@ -15,6 +15,7 @@ let App = ({ dispatch }) => {
       <h1>Animal Keyboard!</h1>
       <input type="button" value="Cat" onClick={onClick} />
       <input type="button" value="Dog" onClick={onClick} />
+      <input type="button" value="Bird" onClick={onClick} />
       <Keyboard />
     </div>
   )

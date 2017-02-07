@@ -7,6 +7,9 @@ export const pickAnimal = output => {
     case 'Dog' :
       type = 'CHANGE_TO_DOG';
       break;
+    case 'Bird' :
+      type = 'CHANGE_TO_BIRD';
+      break;
   }
   return {type};
 }

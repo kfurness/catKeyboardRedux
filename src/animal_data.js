@@ -103,3 +103,57 @@ export const dogData = {
     letter: ';'
   }
 }
+
+
+export const birdData = {
+  0: {
+    img: require('./images/birds/bird0.jpg'),
+    sound: require('./sounds/birds/bird0.mp3'),
+    letter: 'A'
+  },
+  1: {
+    img: require('./images/birds/bird1.jpeg'),
+    sound: require('./sounds/birds/bird1.mp3'),
+    letter: 'S'
+  },
+  2: {
+    img: require('./images/birds/bird2.jpg'),
+    sound: require('./sounds/birds/bird2.mp3'),
+    letter: 'D'
+  },
+  3: {
+    img: require('./images/birds/bird3.jpeg'),
+    sound: require('./sounds/birds/bird3.mp3'),
+    letter: 'F'
+  },
+  4: {
+    img: require('./images/birds/bird4.jpeg'),
+    sound: require('./sounds/birds/bird4.mp3'),
+    letter: 'G'
+  },
+  5: {
+    img: require('./images/birds/bird5.jpg'),
+    sound: require('./sounds/birds/bird5.mp3'),
+    letter: 'H'
+  },
+  6: {
+    img: require('./images/birds/bird6.jpg'),
+    sound: require('./sounds/birds/bird6.mp3'),
+    letter: 'J'
+  },
+  7: {
+    img: require('./images/birds/bird7.jpeg'),
+    sound: require('./sounds/birds/bird7.mp3'),
+    letter: 'K'
+  },
+  8: {
+    img: require('./images/birds/bird8.jpeg'),
+    sound: require('./sounds/birds/bird8.mp3'),
+    letter: 'L'
+  },
+  9: {
+    img: require('./images/birds/bird9.jpeg'),
+    sound: require('./sounds/birds/bird9.mp3'),
+    letter: ';'
+  }
+}
